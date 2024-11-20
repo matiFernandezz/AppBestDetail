@@ -124,6 +124,7 @@ Se muestra el funcionamiento de la aplicación:
 ![Categories](./multimedia/ScreenShots/Screen3.png)
 ![Products](./multimedia/ScreenShots/Screen4.png)
 ![Product](./multimedia/ScreenShots/Screen6.png)
+
 Producto filtrado por nombre 
 
 ![FilterByName](./multimedia/ScreenShots/Screen5.png)
