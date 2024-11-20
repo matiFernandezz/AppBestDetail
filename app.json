@@ -1,9 +1,8 @@
 {
   "expo": {
-    "name": "FinalProyectoCoder",
-    "slug": "FinalProyectoCoder",
+    "name": "Best_Detail",
+    "slug": "Best_Detail",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -18,10 +17,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      },
+      "icon": "./assets/icon.png",
+      "plugins": [
+        "expo-font"
+      ]
     }
   }
 }
