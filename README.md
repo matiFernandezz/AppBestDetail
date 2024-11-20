@@ -1,8 +1,10 @@
-# Proyecto Final de CoderHouse
+# Proyecto Final de Desarrollo de Aplicaciones 
+
 ## Best Detail
 
 Best Detail es una empresa destinada a la venta de productos de la marca Toxic Shine para el cuidado de la estetica vehicular. 
-La aplicación es de e-commerce desarrollada con React Native y Expo, permite a los usuarios registrarse, iniciar sesión, elegir productos por categoria, buscalos por nombre, agregar productos al carrito, y realizar compras. Además, se utiliza utiliza SQLite para la persistencia de datos y Firebase para la autenticación y la base de datos en tiempo real.
+
+La aplicación es de un e-commerce desarrollada con React Native y Expo, permite a los usuarios registrarse, iniciar sesión, elegir productos por categoria, buscalos por nombre, agregar productos al carrito, y realizar compras. Además, se utiliza utiliza SQLite para la persistencia de datos y Firebase para la autenticación y la base de datos en tiempo real.
 
 ## Características Principales 
 - **Catálogo de Productos**: Explora una lista de productos categorizados para facilitar la búsqueda.
@@ -28,7 +30,7 @@ La aplicación es de e-commerce desarrollada con React Native y Expo, permite a 
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/XxFabio24xX/MDZTech-App
+    git clone https://github.com/matiFernandezz/AppBestDetail
     cd ProyectoFinalCoder
     ```
 
